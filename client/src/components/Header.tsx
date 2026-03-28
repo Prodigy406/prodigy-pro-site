@@ -35,6 +35,9 @@ export default function Header() {
           <a href="#team" className="text-sm text-foreground hover:text-primary transition-colors" style={{fontFamily: "'Poppins', sans-serif"}}>
             الفريق
           </a>
+          <a href="https://files.manuscdn.com/user_upload_by_module/session_file/310519663487759952/bbfPTFXbIZpwWsgm.pdf" target="_blank" className="text-sm text-primary font-bold hover:text-primary/80 transition-colors" style={{fontFamily: "'Poppins', sans-serif"}}>
+            الورقة البيضاء
+          </a>
         </nav>
 
         {/* CTA Button */}
